@@ -1,0 +1,9 @@
+name: Test
+version: '${project.version}'
+main: test.test.Test
+api-version: 1.19
+depend:
+  - ProtocolLib
+commands:
+  anvil:
+  npc:
